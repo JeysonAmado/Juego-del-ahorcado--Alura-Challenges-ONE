@@ -169,14 +169,88 @@ body{
 .abecedario td{
     
     text-align: center;
+    width: 20px;
+    margin: auto;
     
     
 }
 
-.ahorcado img{
+.ahorcado img:nth-child(1){
     position: absolute;
     width: 294px;
     height: 5px;
     left: 573px;
-    top: 380px;
+    top: 420px;
+}
+
+.ahorcado img:nth-child(2){
+    position: absolute;
+    width: 4.5px;
+    height: 360px;
+    left: 653.67px;
+    top: 65px;
+}
+
+.ahorcado img:nth-child(3){
+    position: absolute;
+    width: 177.75px;
+    height: 4.5px;
+    left: 653.67px;
+    top: 65px;
+}
+
+.ahorcado img:nth-child(4){
+    position: absolute;
+    width: 4.5px;
+    height: 49.5px;
+    left: 826.92px;
+    top: 65px;
+}
+
+.ahorcado img:nth-child(5){
+    position: absolute;
+    width: 63px;
+    height: 63px;
+    left: 797.67px;
+    top: 110px;
+}
+
+.ahorcado img:nth-child(6){
+    position: absolute;
+    width: 6px;
+    height: 135px;
+    left: 826.92px;
+    top: 173px;
+
+}
+
+.ahorcado img:nth-child(7){
+    position: absolute;
+    left: 826px;
+    top: 170px;
+}
+
+.ahorcado img:nth-child(8){
+    position: absolute;
+    left: 792px;
+    top: 170px;
+}
+
+.ahorcado img:nth-child(9){
+    position: absolute;
+    left: 828px;
+    top: 304px;
+}
+
+.ahorcado img:nth-child(10){
+    position: absolute;
+    left: 793px;
+    top: 304px;
+}
+
+.ahorcado img:nth-child(11){
+    position: absolute;
+    width: 3.5%;
+    left: 805px;
+    top: 115px;
 }
